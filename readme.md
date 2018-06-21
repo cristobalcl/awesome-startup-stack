@@ -69,14 +69,14 @@
 
 ### Web frontend
 
-- [jQuery](https://jquery.com) - basic JavaScript library.
+- [jQuery](https://jquery.com) - Basic JavaScript library.
 - [Bootstrap](https://getbootstrap.com) - Twitter's simple HTML styling for web
     app prototyping.
 - [Angular](https://angular.io) - Google's framework for web & mobile apps
     written in [Typescript](https://www.typescriptlang.org).
 - [React](https://reactjs.org) - Facebook's JavaScript library for building user
     interfaces.
-- [Vue.js](https://vuejs.org) - from simple to full charged web apps.
+- [Vue.js](https://vuejs.org) - From simple to full charged web apps.
 - [AWS Amplify](https://aws.github.io/aws-amplify) - JavaScript library for
     application development using cloud services.
 
@@ -99,11 +99,11 @@
 
 - [PostgreSQL](https://www.postgresql.org)
 - [MongoDB](https://www.mongodb.com)
-- [Redis](https://redis.io) - in-memory data store for cache and message
+- [Redis](https://redis.io) - In-memory data store for cache and message
     broker.
-- [RethinkDB](https://www.rethinkdb.com) - realtime results to queries, ideal
+- [RethinkDB](https://www.rethinkdb.com) - Realtime results to queries, ideal
     for multi concurrent users apps, multiplayer games, realtime analytics,…
-- [OrientDB](https://orientdb.com) - multi-model database: graph, relational,
+- [OrientDB](https://orientdb.com) - Multi-model database: graph, relational,
     document & key/value.
 
 ## SaaS
@@ -130,20 +130,20 @@
 
 ### Storage
 
-- [Cloudinary](https://cloudinary.com) - image and video on-the-fly
+- [Cloudinary](https://cloudinary.com) - Image and video on-the-fly
     manipulations.
 
 ### Mail API
 
 - [MailGun](https://www.mailgun.com) - Send, receive and track emails.
-- [SendGrid](https://sendgrid.com) - email API and marketing platform.
+- [SendGrid](https://sendgrid.com) - Email API and marketing platform.
 - [SparkPost](https://www.sparkpost.com)
 
 ### Monitoring
 
-- [PaperTrail](https://papertrailapp.com) - logs.
-- [UptimeRobot](https://uptimerobot.com) - downtime notifications.
-- [Rollbar](https://rollbar.com) - real-time error alerting & debugging tools.
+- [PaperTrail](https://papertrailapp.com) - Logs.
+- [UptimeRobot](https://uptimerobot.com) - Downtime notifications.
+- [Rollbar](https://rollbar.com) - Real-time error alerting & debugging tools.
 
 ### Payments
 
@@ -157,17 +157,17 @@
 
 ## No code
 
-- [Carrd](https://carrd.co) - responsive landing pages.
-- [Bubble](https://bubble.is) - app builder.
-- [Thunkable](https://thunkable.com) - mobile app builder for Android and iOS.
-- [sheet2site](https://www.sheet2site.com) - create websites from Google Sheets.
+- [Carrd](https://carrd.co) - Responsive landing pages.
+- [Bubble](https://bubble.is) - App builder.
+- [Thunkable](https://thunkable.com) - Mobile app builder for Android and iOS.
+- [sheet2site](https://www.sheet2site.com) - Create websites from Google Sheets.
 - [Shopify](http://shopify.com) - eCommerce.
-- [Zapier](https://zapier.com) - automated workflows.
-- [MailChimp](https://mailchimp.com) - email marketing.
+- [Zapier](https://zapier.com) - Automated workflows.
+- [MailChimp](https://mailchimp.com) - Email marketing.
 
 ## Technologies directories
 
-- [Stackshare](https://stackshare.io) - look for stacks of other companies, and
+- [Stackshare](https://stackshare.io) - Look for stacks of other companies, and
     compare technologies.
 - [Nocode](http://www.nocode.tech) - No code tech.
 
