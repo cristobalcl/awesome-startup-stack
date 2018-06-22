@@ -22,6 +22,8 @@
     * [Payments](#payments)
     * [App builders](#app-builders)
 * [No code](#no-code)
+* [IDEs and Editors](#ides-and-editors)
+* [Organization](#organization)
 * [Technologies directories](#technologies-directories)
 * [Motivation](#motivation)
 * [Contribute](#contribute)
@@ -154,6 +156,7 @@
 ### App builders
 
 - [Clay](https://base.run)
+- [Anvil](https://anvil.works) - web apps using Python.
 
 ## No code
 
@@ -164,6 +167,34 @@
 - [Shopify](http://shopify.com) - eCommerce.
 - [Zapier](https://zapier.com) - Automated workflows.
 - [MailChimp](https://mailchimp.com) - Email marketing.
+- [Crisp](https://crisp.chat) - Live chat.
+- [Drift](https://www.drift.com) - Conversational marketing platform.
+- [collect.chat](https://collect.chat) - Interactive chatbot for collecting
+    data from visitors.
+
+## IDEs and Editors
+
+- [Atom](https://atom.io) - From GitHub, free & libre.
+- [VisualStudio](https://code.visualstudio.com) - From Microsoft, free.
+- [Sublime](https://www.sublimetext.com) - Not free.
+- [Vim](https://www.vim.org)
+- [Emacs](https://www.gnu.org/software/emacs)
+    - [Evil mode](https://www.emacswiki.org/emacs/Evil) - Extensible vi layer for
+        Emacs.
+- [Slap](https://github.com/slap-editor/slap) - Like Sublime but for the
+    console.
+
+## Organization
+
+- [Notion](https://www.notion.so) - Documentation, kanban, spreadsheets.
+- [Zenkit](https://zenkit.com) - Lists, spreadsheets, kanban, mind maps.
+- [Workflowy](https://workflowy.com) - Linked lists.
+- [CodeGiant](https://codegiant.io) - Issue tracker, code repositories,
+    documentation, continuous integration.
+- [Monday](https://monday.com)
+- [Trello](https://trello.com)
+- [GitHub](http://github.com)
+- [GitLab](https://gitlab.com) - Planning, code repositories, CI/CD pipelines.
 
 ## Technologies directories
 
