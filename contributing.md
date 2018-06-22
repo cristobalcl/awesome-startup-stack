@@ -11,7 +11,8 @@ Ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a
     duplicate.
 - Make an individual pull request for each suggestion.
-- Try to respect the code styling of the document.
+- Try to respect the code styling of the rest of the document.
+- If you add a new category make sure to add it also to the table of contents.
 - Remove trailing whitespace.
 - The pull request and commit should have a useful title.
 
