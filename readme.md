@@ -33,6 +33,7 @@
 
 - [Python](https://www.python.org) - Popular for scripting, web backend and machine learning.
 - [Ruby](https://www.ruby-lang.org) - Scripting and web backend.
+- [C#](http://csharp.net) - Microsoft programming language.
 - [Elixir](https://elixir-lang.org) - Erlang VM based, functional, paralell programming, scalable, fault tolerant.
 - [PHP](http://php.net) - Used mostly in web backend.
 - [Hack](https://hacklang.org) - PHP based, but safer and faster.
