@@ -22,6 +22,11 @@
     * [Payments](#payments)
     * [App builders](#app-builders)
 * [No code](#no-code)
+    * [No code web](#no-code-web)
+    * [No code apps](#no-code-apps)
+    * [eCommerce](#ecommerce)
+    * [Marketing](#marketing)
+    * [Live chat](#live-chat)
 * [IDEs and Editors](#ides-and-editors)
 * [Organization](#organization)
 * [Technologies directories](#technologies-directories)
@@ -82,6 +87,9 @@
 - [Vue.js](https://vuejs.org) - From simple to full charged web apps.
 - [AWS Amplify](https://aws.github.io/aws-amplify) - JavaScript library for
     application development using cloud services.
+- [Next.js](https://nextjs.org) - Lightweight framework for static and
+    server‑rendered applications.
+- [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
 
 ### Design frameworks
 
@@ -161,13 +169,32 @@
 
 ## No code
 
+### No code web
+
 - [Carrd](https://carrd.co) - Responsive landing pages.
+- [Ghost](https://ghost.org) - Publishing platform.
+- [WordPress](https://wordpress.org)
+
+### No code apps
+
 - [Bubble](https://bubble.is) - App builder.
 - [Thunkable](https://thunkable.com) - Mobile app builder for Android and iOS.
 - [sheet2site](https://www.sheet2site.com) - Create websites from Google Sheets.
-- [Shopify](http://shopify.com) - eCommerce.
 - [Zapier](https://zapier.com) - Automated workflows.
+
+### eCommerce
+
+- [Shopify](http://shopify.com)
+- [Gumroad](https://gumroad.com) - Simple setup.
+- [DPD](https://getdpd.com) - Sell digital content simply copying & pasting
+    buttons on any web, even with a cart system.
+
+### Marketing
+
 - [MailChimp](https://mailchimp.com) - Email marketing.
+
+### Live chat
+
 - [Crisp](https://crisp.chat) - Live chat.
 - [Drift](https://www.drift.com) - Conversational marketing platform.
 - [collect.chat](https://collect.chat) - Interactive chatbot for collecting
