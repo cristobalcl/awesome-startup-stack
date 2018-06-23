@@ -187,7 +187,8 @@
 - [Shopify](http://shopify.com)
 - [Gumroad](https://gumroad.com) - Simple setup.
 - [DPD](https://getdpd.com) - Sell digital content simply copying & pasting
-    buttons on any web, even with a cart system.
+    buttons on any web, even with a cart system & scheduled content with
+    subscription.
 
 ### Marketing
 
