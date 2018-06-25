@@ -78,6 +78,7 @@
 - [Vapor](https://vapor.codes) - Swift for web backend.
 - [Micronaut](http://micronaut.io) - JVM based full-stack framework for
     microservice applications.
+- [Lumie](https://github.com/Alex-Levacher/Lumie) - Lightweight module to set up a scalable controllers architecture for Node.js projects.
 
 ### Web frontend
 
