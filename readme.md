@@ -48,6 +48,7 @@
 - [JavaScript](https://www.javascript.com)
 - [Node.js](https://nodejs.org) - JavaScript runtime for backend and scripting.
 - [Elm](http://elm-lang.org) - Webapps.
+- [PureScript](http://www.purescript.org) - A strongly-typed functional programming language that compiles to JavaScript.
 
 ### JVM based
 
