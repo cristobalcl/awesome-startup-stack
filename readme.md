@@ -39,6 +39,7 @@
 - [Python](https://www.python.org) - Popular for scripting, web backend and machine learning.
 - [Ruby](https://www.ruby-lang.org) - Scripting and web backend.
 - [C#](http://csharp.net) - Microsoft programming language.
+- [F#](https://fsharp.org) - Funtional language for the .NET Framework.
 - [Elixir](https://elixir-lang.org) - Erlang VM based, functional, paralell programming, scalable, fault tolerant.
 - [PHP](http://php.net) - Used mostly in web backend.
 - [Hack](https://hacklang.org) - PHP based, but safer and faster.
@@ -68,6 +69,7 @@
 - [Laravel](https://laravel.com) - PHP framework.
 - [Play](https://www.playframework.com) - For Java & [Scala](https://www.scala-lang.org).
 - [Grails](https://grails.org) - Groovy framework on top of [Spring Boot](https://spring.io/projects/spring-boot).
+- [WebSharper](https://websharper.com) - Framework and toolset for developing web/mobile applications and web services entirely in C# or F#.
 - [Phoenix](http://phoenixframework.org) - Elixir web framework, can handle
     millions of connections.
 - [Sails](https://sailsjs.com) - Node.js MVC framework.
