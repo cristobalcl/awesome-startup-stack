@@ -17,6 +17,7 @@
     * [Cloud computing platforms](#cloud-computing-platforms)
     * [Managed container system](#managed-container-system)
     * [Serverless processing](#serverless-processing)
+    * [Forms](#forms)
     * [Storage](#storage)
     * [Mail API](#mail-api)
     * [Monitoring](#monitoring)
@@ -152,6 +153,10 @@
 - [StdLib](https://stdlib.com)
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
 
+### Forms
+
+- [Formspark](https://formspark.io) - Backend for HTML forms.
+
 ### Storage
 
 - [Cloudinary](https://cloudinary.com) - Image and video on-the-fly
@@ -187,6 +192,7 @@
 - [Carrd](https://carrd.co) - Responsive landing pages.
 - [Ghost](https://ghost.org) - Publishing platform.
 - [WordPress](https://wordpress.org)
+- [Discourse](https://github.com/discourse/discourse) - Platform for community discussion.
 
 ### No code apps
 
