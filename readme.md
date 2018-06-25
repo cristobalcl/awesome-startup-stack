@@ -9,6 +9,7 @@
 * [Frameworks](#frameworks)
     * [Web backend](#web-backend)
     * [Web frontend](#web-frontend)
+    * [Templates](#templates)
     * [DevOps](#devops)
     * [Design frameworks](#design-frameworks)
     * [Mobile apps](#mobile-apps)
@@ -96,6 +97,17 @@
 - [Next.js](https://nextjs.org) - Lightweight framework for static and
     server‑rendered applications.
 - [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
+
+### Templates
+
+- [Bullet Train](https://bullettrain.co) - SaaS template in Ruby on Rails.
+- [Laravel Spark](https://spark.laravel.com)
+- [Hackaton Starter](https://github.com/sahat/hackathon-starter) - A kickstarter
+    for Node.js applications.
+- [Pup](http://cleverbeagle.com/pup) - Based on React, Bootstrap, [Font
+    Awesome](https://fontawesome.com/) and [Meteor](https://meteor.com).
+- [Pinax](http://pinaxproject.com) - For Python with Django.
+- [Enterprise Application Starter Kit](https://www.maxiomapps.com/apps/application-starter-kit) - Ember + Rails.
 
 ### DevOps
 
@@ -206,8 +218,10 @@
 - [Shopify](http://shopify.com)
 - [Gumroad](https://gumroad.com) - Simple setup.
 - [DPD](https://getdpd.com) - Sell digital content simply copying & pasting
-    buttons on any web, even with a cart system & scheduled content with
+    buttons on any web, even with a cart system and scheduled content with
     subscription.
+- [Memberful](https://memberful.com) - To sell memberships, for Stripe,
+    WordPress and MailChimp.
 
 ### Marketing
 
