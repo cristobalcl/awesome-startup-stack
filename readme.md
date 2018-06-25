@@ -9,6 +9,7 @@
 * [Frameworks](#frameworks)
     * [Web backend](#web-backend)
     * [Web frontend](#web-frontend)
+    * [DevOps](#devops)
     * [Design frameworks](#design-frameworks)
     * [Mobile apps](#mobile-apps)
 * [Databases](#databases)
@@ -94,6 +95,13 @@
     server‑rendered applications.
 - [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
 
+### DevOps
+
+- [Fabric](http://www.fabfile.org) - Fabric is Python library & [cli](http://docs.fabfile.org/en/2.1/getting-started.html#addendum-the-fab-command-line-tool) designed to execute shell commands remotely over SSH.
+- [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
+- [Kappa](https://github.com/garnaat/kappa) - cli that makes it easier to deploy, update, and test functions for AWS Lambda.
+- [Serverless](https://serverless.com) - Toolkit for deploying and operating serverless architectures, using services, like AWS Lambda, Google Cloud Functions, and more.
+
 ### Design frameworks
 
 - [Ant Design](https://ant.design) - React UI library with high quality
@@ -141,6 +149,7 @@
     authentication, storage,…
 - [Webtask](https://webtask.io) - HTTP endpoints written with Node.js.
 - [StdLib](https://stdlib.com)
+- [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
 
 ### Storage
 
