@@ -206,6 +206,7 @@
 - [Segment](https://segment.com) - Analytics API and customer data platform that
     integrates 200 different data providers.
 - [PaperTrail](https://papertrailapp.com) - Logs.
+- [Datadog](https://www.datadoghq.com) - Full-stack monitoring and analytics.
 - [UptimeRobot](https://uptimerobot.com) - Downtime notifications.
 - [Rollbar](https://rollbar.com) - Real-time error alerting & debugging tools.
 
