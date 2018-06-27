@@ -235,6 +235,7 @@
 - [Thunkable](https://thunkable.com) - Mobile app builder for Android and iOS.
 - [sheet2site](https://www.sheet2site.com) - Create websites from Google Sheets.
 - [Zapier](https://zapier.com) - Automated workflows.
+- [Typeform](https://www.typeform.com) - Forms, Stripe integration.
 
 ### eCommerce
 
