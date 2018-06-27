@@ -18,6 +18,7 @@
     * [Cloud computing platforms](#cloud-computing-platforms)
     * [Managed container system](#managed-container-system)
     * [Serverless processing](#serverless-processing)
+    * [Hosted databases](#hosted-databases)
     * [Forms](#forms)
     * [Storage](#storage)
     * [Mail API](#mail-api)
@@ -98,12 +99,19 @@
     server‑rendered applications.
 - [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
 
+### Desktop
+
+- [Electron](https://electronjs.org) - Desktop applications using Node.js and
+    [Chromium](https://www.chromium.org).
+
 ### Templates
 
 - [Bullet Train](https://bullettrain.co) - SaaS template in Ruby on Rails.
 - [Laravel Spark](https://spark.laravel.com)
 - [Hackaton Starter](https://github.com/sahat/hackathon-starter) - A kickstarter
     for Node.js applications.
+- [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
+    Cross-platform desktop apps using Electron and React.
 - [Pup](http://cleverbeagle.com/pup) - Based on React, Bootstrap, [Font
     Awesome](https://fontawesome.com/) and [Meteor](https://meteor.com).
 - [Pinax](http://pinaxproject.com) - For Python with Django.
@@ -137,6 +145,7 @@
 - [MongoDB](https://www.mongodb.com)
 - [Redis](https://redis.io) - In-memory data store for cache and message
     broker.
+- [ElasticSearch](https://www.elastic.co)
 - [RethinkDB](https://www.rethinkdb.com) - Realtime results to queries, ideal
     for multi concurrent users apps, multiplayer games, realtime analytics,…
 - [OrientDB](https://orientdb.com) - Multi-model database: graph, relational,
@@ -162,8 +171,20 @@
 - [Firebase](https://firebase.google.com) - From Google: database,
     authentication, storage,…
 - [Webtask](https://webtask.io) - HTTP endpoints written with Node.js.
+- [Netlify](https://www.netlify.com) - Automate deployment, AWS Lambda
+    management, user signups and logins, forms.
 - [StdLib](https://stdlib.com)
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
+
+### Authentication
+
+- [Auth0](https://auth0.com) - Authentication and authorization for web and
+    apps.
+
+### Hosted databases
+
+- [Bonsai](https://bonsai.io) - Escalable ElasticSearch.
+- [GraphCool](https://www.graph.cool) - GraphQL backend.
 
 ### Forms
 
@@ -182,6 +203,8 @@
 
 ### Monitoring
 
+- [Segment](https://segment.com) - Analytics API and customer data platform that
+    integrates 200 different data providers.
 - [PaperTrail](https://papertrailapp.com) - Logs.
 - [UptimeRobot](https://uptimerobot.com) - Downtime notifications.
 - [Rollbar](https://rollbar.com) - Real-time error alerting & debugging tools.
@@ -239,6 +262,8 @@
 - [Atom](https://atom.io) - From GitHub, free & libre.
 - [VisualStudio](https://code.visualstudio.com) - From Microsoft, free.
 - [Sublime](https://www.sublimetext.com) - Not free.
+- [Light Table](http://lighttable.com) - IDE with powerful debug capabilities,
+    for Clojure, JavaScript/HTML/CSS and Python.
 - [Vim](https://www.vim.org)
 - [Emacs](https://www.gnu.org/software/emacs)
     - [Evil mode](https://www.emacswiki.org/emacs/Evil) - Extensible vi layer for
