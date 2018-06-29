@@ -9,9 +9,9 @@
 * [Frameworks](#frameworks)
     * [Web backend](#web-backend)
     * [Web frontend](#web-frontend)
+    * [Web design](#web-design)
     * [Templates](#templates)
     * [DevOps](#devops)
-    * [Design frameworks](#design-frameworks)
     * [Mobile apps](#mobile-apps)
 * [Databases](#databases)
 * [SaaS](#saas)
@@ -86,8 +86,6 @@
 ### Web frontend
 
 - [jQuery](https://jquery.com) - Basic JavaScript library.
-- [Bootstrap](https://getbootstrap.com) - Twitter's simple HTML styling for web
-    app prototyping.
 - [Angular](https://angular.io) - Google's framework for web & mobile apps
     written in [Typescript](https://www.typescriptlang.org).
 - [React](https://reactjs.org) - Facebook's JavaScript library for building user
@@ -98,6 +96,24 @@
 - [Next.js](https://nextjs.org) - Lightweight framework for static and
     server‑rendered applications.
 - [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
+
+### Web design
+
+- [Bootstrap](https://getbootstrap.com) - Twitter's simple HTML styling for web
+    app prototyping.
+- [Bulma](https://bulma.io) - CSS framework.
+- [Foundation](https://foundation.zurb.com) - Responsive frontend framework for rapid development.
+- [Tailwind](https://tailwindcss.com) - A utility-first CSS framework for rapid UI development.
+- [Sematic UI](https://semantic-ui.com) - A lightweight, responsive and modern CSS framework.
+- [Spectre.css](https://picturepan2.github.io/spectre)
+- [Pure.css](https://purecss.io) - Small, responsive CSS modules.
+- [Ant Design](https://ant.design) - React UI library with high quality
+    components for building rich, interactive user interfaces.
+- [Rebass](https://jxnblk.com/rebass) - Library of highly-composable, primitive UI components for React.
+- [Skeleton](http://getskeleton.com) - Simple, responsive boilerplate.
+- [Tachyons](http://tachyons.io) - Fast loading, highly readable, and 100%
+    responsive interfaces with as little css as possible.
+- [Silver](https://zeph.co/grid) - 15 lines CSS grid system.
 
 ### Desktop
 
@@ -123,12 +139,6 @@
 - [deliver](https://github.com/gerhard/deliver) - Pure bash deployment tool with customisable strategies.
 - [Kappa](https://github.com/garnaat/kappa) - cli that makes it easier to deploy, update, and test functions for AWS Lambda.
 - [Serverless](https://serverless.com) - Toolkit for deploying and operating serverless architectures, using services, like AWS Lambda, Google Cloud Functions, and more.
-
-### Design frameworks
-
-- [Ant Design](https://ant.design) - React UI library with high quality
-    components for building rich, interactive user interfaces.
-- [Sematic UI](https://semantic-ui.com)
 
 ### Mobile apps
 
