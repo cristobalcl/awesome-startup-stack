@@ -235,6 +235,8 @@
 
 ### No code web
 
+- [Wix](https://wix.com)
+- [SquareSpace](https://es.squarespace.com)
 - [Carrd](https://carrd.co) - Responsive landing pages.
 - [Ghost](https://ghost.org) - Publishing platform.
 - [WordPress](https://wordpress.org)
