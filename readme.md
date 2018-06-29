@@ -260,6 +260,7 @@
 
 - [Shopify](http://shopify.com)
 - [Gumroad](https://gumroad.com) - Simple setup.
+- [Wirize](https://wirize.com) - Accept card payments online.
 - [DPD](https://getdpd.com) - Sell digital content simply copying & pasting
     buttons on any web, even with a cart system and scheduled content with
     subscription.
