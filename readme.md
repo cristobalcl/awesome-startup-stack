@@ -124,6 +124,7 @@
 ### Templates
 
 - [Bullet Train](https://bullettrain.co) - SaaS template in Ruby on Rails.
+- [Skaffolder](https://www.skaffolder.com) - Create fully prototype within minutes.
 - [Laravel Spark](https://spark.laravel.com)
 - [Hackaton Starter](https://github.com/sahat/hackathon-starter) - A kickstarter
     for Node.js applications.
@@ -236,7 +237,7 @@
 ### App builders
 
 - [Clay](https://base.run)
-- [Anvil](https://anvil.works) - web apps using Python.
+- [Anvil](https://anvil.works) - Web apps using Python.
 
 ## No code
 
