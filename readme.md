@@ -186,6 +186,8 @@
     management, user signups and logins, forms.
 - [StdLib](https://stdlib.com)
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
+- [Lobe](https://lobe.ai) - Deep Learning made simple.
+- [Sheetbase](https://sheetbase.net) - Build a apps using Google services as backend.
 
 ### Authentication
 
