@@ -286,7 +286,8 @@
 
 - [Atom](https://atom.io) - From GitHub, free & libre.
 - [VisualStudio](https://code.visualstudio.com) - From Microsoft, free.
-- [Sublime](https://www.sublimetext.com) - Not free.
+- [Sublime](https://www.sublimetext.com)
+- [CodeSandbox](https://codesandbox.io) - Online editor that helps you create web applications, from prototype to deployment.
 - [Light Table](http://lighttable.com) - IDE with powerful debug capabilities,
     for Clojure, JavaScript/HTML/CSS and Python.
 - [Vim](https://www.vim.org)
