@@ -231,6 +231,9 @@
 
 ### Payments
 
+- [Servicebot](https://servicebot.io) - Create pricing pages, sign-up forms, and
+manage your subscriptions with no coding. You can also try the
+[open source version](https://github.com/service-bot/servicebot).
 - [Stripe](https://stripe.com)
 - [Paddle](https://paddle.com)
 - [Chargebee](https://www.chargebee.com)
