@@ -269,6 +269,8 @@ manage your subscriptions with no coding. You can also try the
 
 - [Shopify](http://shopify.com)
 - [Gumroad](https://gumroad.com) - Simple setup.
+- [Plasso Storefront](https://plasso.com/storefront) - Sell subscriptions, physical
+and digital goods, charge for services, accept donations, sell pre-orders and more.
 - [Wirize](https://wirize.com) - Accept card payments online.
 - [DPD](https://getdpd.com) - Sell digital content simply copying & pasting
     buttons on any web, even with a cart system and scheduled content with
