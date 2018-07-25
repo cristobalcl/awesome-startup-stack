@@ -18,6 +18,7 @@
     * [Cloud computing platforms](#cloud-computing-platforms)
     * [Managed container system](#managed-container-system)
     * [Serverless processing](#serverless-processing)
+    * [Static hosting](#static-hosting)
     * [Hosted databases](#hosted-databases)
     * [Forms](#forms)
     * [Storage](#storage)
@@ -84,6 +85,13 @@
     microservice applications.
 - [Lumie](https://github.com/Alex-Levacher/Lumie) - Lightweight module to set up a scalable controllers architecture for Node.js projects.
 - [Zappa](https://github.com/Miserlou/Zappa) - Easy build and deploy server-less Python applications on AWS Lambda + API Gateway and others.
+- [Sparta](http://gosparta.io) - Framework that transforms a standard Go
+    application into a self-deploying AWS Lambda powered service.
+- [The Go Cloud Project](https://github.com/google/go-cloud) - Allow application
+    developers to seamlessly deploy cloud applications on any combination of
+    cloud providers.
+- [fog.io](http://fog.io) - Ruby cloud services library.
+- [Socket.io](https://socket.io/) - Real-time engine.
 
 ### Web frontend
 
@@ -191,6 +199,10 @@
 - [Lobe](https://lobe.ai) - Deep Learning made simple.
 - [Sheetbase](https://sheetbase.net) - Build a apps using Google services as backend.
 
+### Static hosting
+
+- [surge.sh](http://surge.sh) - Static web publishing for Front-End Developers.
+
 ### Authentication
 
 - [Auth0](https://auth0.com) - Authentication and authorization for web and
@@ -249,6 +261,7 @@ manage your subscriptions with no coding. You can also try the
 
 - [Wix](https://wix.com)
 - [SquareSpace](https://es.squarespace.com)
+- [Landen](https://www.landen.co) - Design landing pages.
 - [Carrd](https://carrd.co) - Responsive landing pages.
 - [Ghost](https://ghost.org) - Publishing platform.
 - [WordPress](https://wordpress.org)
@@ -263,6 +276,7 @@ manage your subscriptions with no coding. You can also try the
 - [Zapier](https://zapier.com) - Automated workflows.
 - [cron-job](https://cron-job.org) - Scheduled execution of websites and scripts.
 - [Typeform](https://www.typeform.com) - Forms, Stripe integration.
+- [BuildBox](https://www.buildbox.com) - Build mobile games with no code.
 - [Asteroid](http://asteroid.zone) - Augmented reality dev tool for creating 3D apps that react to their environment.
 
 ### eCommerce
@@ -322,6 +336,7 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
 - [Stackshare](https://stackshare.io) - Look for stacks of other companies, and
     compare technologies.
 - [Nocode](http://www.nocode.tech) - No code tech.
+- [Indie Hackers - Tech Stack for 2018](https://www.indiehackers.com/round-table/what-tech-should-you-use-in-2018) - What tech stacks are indie hackers using for their apps, and why.
 
 ## Motivation
 
