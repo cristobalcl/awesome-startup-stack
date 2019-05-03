@@ -329,6 +329,7 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
 - [Trello](https://trello.com)
 - [GitHub](http://github.com)
 - [GitLab](https://gitlab.com) - Planning, code repositories, CI/CD pipelines.
+- [Taskade](https://taskade.com) - Structured task lists, notes, kanban, mind maps, and video chat.
 
 ## Technologies directories
 
