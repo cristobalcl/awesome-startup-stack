@@ -23,6 +23,7 @@
     * [Forms](#forms)
     * [Storage](#storage)
     * [Mail API](#mail-api)
+    * [Communication API](#communication-api)
     * [Monitoring](#monitoring)
     * [Marketing](#marketing)
     * [Payments](#payments)
@@ -180,6 +181,7 @@
 - [AWS](https://aws.amazon.com)
 - [Google Cloud](https://cloud.google.com)
 - [Azure](https://azure.microsoft.com)
+- [DNSimple](https://dnsimple.com) - DNS hosting with powerful API.
 
 ### Managed container system
 
@@ -197,6 +199,7 @@
 - [StdLib](https://stdlib.com)
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
 - [Lobe](https://lobe.ai) - Deep Learning made simple.
+- [Nuclio](https://nuclio.io) - Serverless platform for automated Data Science.
 - [Sheetbase](https://sheetbase.net) - Build a apps using Google services as backend.
 
 ### Static hosting
@@ -227,6 +230,10 @@
 - [MailGun](https://www.mailgun.com) - Send, receive and track emails.
 - [SendGrid](https://sendgrid.com) - Email API and marketing platform.
 - [SparkPost](https://www.sparkpost.com)
+
+### Communication API
+
+- [Stream](https://getstream.io) - Scalable feeds, activity streams & chat.
 
 ### Monitoring
 
@@ -338,6 +345,7 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
     compare technologies.
 - [Nocode](http://www.nocode.tech) - No code tech.
 - [Indie Hackers - Tech Stack for 2018](https://www.indiehackers.com/round-table/what-tech-should-you-use-in-2018) - What tech stacks are indie hackers using for their apps, and why.
+- [YCombinator.dev](http://ycombinator.dev) - Y Combinator resources for developers.
 
 ## Motivation
 
