@@ -337,6 +337,7 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
 - [GitHub](http://github.com)
 - [GitLab](https://gitlab.com) - Planning, code repositories, CI/CD pipelines.
 - [Taskade](https://taskade.com) - Structured task lists, notes, kanban, mind maps, and video chat.
+- [Retool](https://www.tryretool.com) - Builder for custom internal tools using common building blocks and templates.
 
 ## Technologies directories
 
