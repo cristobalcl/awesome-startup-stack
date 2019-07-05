@@ -200,7 +200,6 @@
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
 - [Lobe](https://lobe.ai) - Deep Learning made simple.
 - [Nuclio](https://nuclio.io) - Serverless platform for automated Data Science.
-- [Sheetbase](https://sheetbase.net) - Build a apps using Google services as backend.
 
 ### Static hosting
 
@@ -280,6 +279,7 @@ manage your subscriptions with no coding. You can also try the
 - [Mason](https://www.trymason.com) - Build, design, and deploy fully functional front-end solutions.
 - [Thunkable](https://thunkable.com) - Mobile app builder for Android and iOS.
 - [sheet2site](https://www.sheet2site.com) - Create websites from Google Sheets.
+- [Glide](https://www.glideapps.com) - Create apps from Google Sheets.
 - [Zapier](https://zapier.com) - Automated workflows.
 - [cron-job](https://cron-job.org) - Scheduled execution of websites and scripts.
 - [Typeform](https://www.typeform.com) - Forms, Stripe integration.
