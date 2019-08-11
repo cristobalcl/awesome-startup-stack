@@ -107,6 +107,7 @@
 - [Next.js](https://nextjs.org) - Lightweight framework for static and
     server‑rendered applications.
 - [Nuxt.js](https://nuxtjs.org) - The same than **Next.js** but with **Vue.js**.
+- [Mithril.js](https://mithril.js.org) - Modern, small and fast client-side JavaScript framework for building Single Page Applications.
 
 ### Web design
 
