@@ -335,7 +335,9 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
     documentation, continuous integration.
 - [Monday](https://monday.com)
 - [Trello](https://trello.com)
-- [GitHub](http://github.com)
+- [ClickUp](https://clickup.com)
+- [Agantty](https://www.agantty.com/en) - Free gantt chart.
+- [GitHub](https://github.com)
 - [GitLab](https://gitlab.com) - Planning, code repositories, CI/CD pipelines.
 - [Taskade](https://taskade.com) - Structured task lists, notes, kanban, mind maps, and video chat.
 - [Retool](https://www.tryretool.com) - Builder for custom internal tools using common building blocks and templates.
