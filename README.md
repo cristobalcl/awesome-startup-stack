@@ -102,6 +102,7 @@
 - [React](https://reactjs.org) - Facebook's JavaScript library for building user
     interfaces.
 - [Vue.js](https://vuejs.org) - From simple to full charged web apps.
+- [Svelte](https://svelte.dev) - Component framework that compiles to JavaScript. Faster, reactive, with less code.
 - [AWS Amplify](https://aws.github.io/aws-amplify) - JavaScript library for
     application development using cloud services.
 - [Next.js](https://nextjs.org) - Lightweight framework for static and
