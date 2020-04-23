@@ -289,6 +289,7 @@ manage your subscriptions with no coding. You can also try the
 - [Boundless](https://www.boundlesslabs.com) - Web apps.
 - [Mason](https://www.trymason.com) - Build, design, and deploy fully functional front-end solutions.
 - [Thunkable](https://thunkable.com) - Mobile app builder for Android and iOS.
+- [Bildr](https://www.bildr.com/) - Websites and web apps.
 - [sheet2site](https://www.sheet2site.com) - Create websites from Google Sheets.
 - [table2site](https://table2site.com) - Create websites using Airtable as backend.
 - [Glide](https://www.glideapps.com) - Create apps from Google Sheets.
