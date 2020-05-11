@@ -15,7 +15,7 @@
     * [Mobile apps](#mobile-apps)
 * [Self-hosted](#self-hosted)
     * [Cluster management](#cluster-management)
-    * [Databases](#automation)
+    * [Automation](#automation)
     * [Databases](#databases)
 * [SaaS](#saas)
     * [Cloud computing platforms](#cloud-computing-platforms)
