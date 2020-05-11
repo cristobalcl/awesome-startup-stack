@@ -13,7 +13,10 @@
     * [Templates](#templates)
     * [DevOps](#devops)
     * [Mobile apps](#mobile-apps)
-* [Databases](#databases)
+* [Self-hosted](#self-hosted)
+    * [Cluster management](#cluster-management)
+    * [Databases](#automation)
+    * [Databases](#databases)
 * [SaaS](#saas)
     * [Cloud computing platforms](#cloud-computing-platforms)
     * [Managed container system](#managed-container-system)
@@ -164,7 +167,17 @@
 - [NativeScript](https://www.nativescript.org) - Native apps with Angular,
     Vue.js, TypeScript or JavaScript.
 
-## Databases
+## Self-hosted
+
+### Cluster management
+
+- [Kubernetes](https://kubernetes.io) - Open source container-orchestration system for automating application deployment.
+
+### Automation
+
+- [Jenkins](https://www.jenkins.io/) - Open source automation server, for building and deployment.
+
+### Databases
 
 - [PostgreSQL](https://www.postgresql.org)
 - [MongoDB](https://www.mongodb.com)
