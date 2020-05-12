@@ -76,6 +76,7 @@
 - [Django](https://www.djangoproject.com) - High-level Python web framework
     that encourages rapid development and clean, pragmatic design.
 - [Flask](http://flask.pocoo.org) - Microframework for Python.
+- [Starlette](https://www.starlette.io/) - lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services.
 - [Laravel](https://laravel.com) - PHP framework.
 - [Play](https://www.playframework.com) - For Java & [Scala](https://www.scala-lang.org).
 - [Grails](https://grails.org) - Groovy framework on top of [Spring Boot](https://spring.io/projects/spring-boot).
