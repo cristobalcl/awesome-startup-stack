@@ -307,6 +307,7 @@ manage your subscriptions with no coding. You can also try the
 - [table2site](https://table2site.com) - Create websites using Airtable as backend.
 - [Glide](https://www.glideapps.com) - Create apps from Google Sheets.
 - [Zapier](https://zapier.com) - Automated workflows.
+- [Socionity](http://socionity.com/) - Build mobile apps to sell courses, videos, podcasts,...
 - [cron-job](https://cron-job.org) - Scheduled execution of websites and scripts.
 - [Typeform](https://www.typeform.com) - Forms, Stripe integration.
 - [BuildBox](https://www.buildbox.com) - Build mobile games with no code.
