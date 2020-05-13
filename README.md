@@ -218,6 +218,7 @@
 - [Zeit](https://zeit.co) - Easy deployments with [Now](https://zeit.co/now).
 - [Lobe](https://lobe.ai) - Deep Learning made simple.
 - [Nuclio](https://nuclio.io) - Serverless platform for automated Data Science.
+- [WayScript](https://wayscript.com/) - Scripting platform for developers.
 
 ### Static hosting
 
