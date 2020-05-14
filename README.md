@@ -143,6 +143,7 @@
 - [Bullet Train](https://bullettrain.co) - SaaS template in Ruby on Rails.
 - [Skaffolder](https://www.skaffolder.com) - Create fully prototype within minutes.
 - [Laravel Spark](https://spark.laravel.com)
+- [SaaS Pegasus](https://www.saaspegasus.com/) - A Django-Powered SaaS template.
 - [Hackaton Starter](https://github.com/sahat/hackathon-starter) - A kickstarter
     for Node.js applications.
 - [electron-react-boilerplate](https://github.com/chentsulin/electron-react-boilerplate)
