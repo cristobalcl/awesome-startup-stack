@@ -150,8 +150,6 @@
     Cross-platform desktop apps using Electron and React.
 - [Pup](http://cleverbeagle.com/pup) - Based on React, Bootstrap, [Font
     Awesome](https://fontawesome.com/) and [Meteor](https://meteor.com).
-- [Pinax](http://pinaxproject.com) - For Python with Django.
-- [Enterprise Application Starter Kit](https://www.maxiomapps.com/apps/application-starter-kit) - Ember + Rails.
 - [Gravity](https://usegravity.app/) - Node.js SaaS boilerplate with React UI.
 
 ### DevOps
