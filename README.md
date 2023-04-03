@@ -244,6 +244,7 @@
 
 ### Mail API
 
+- [Forward Email](https://forwardemail.net) - Email API, supports webhooks, free and privacy-focused email service.
 - [MailGun](https://www.mailgun.com) - Send, receive and track emails.
 - [SendGrid](https://sendgrid.com) - Email API and marketing platform.
 - [SparkPost](https://www.sparkpost.com)
