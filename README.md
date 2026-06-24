@@ -178,6 +178,10 @@
 
 - [Jenkins](https://www.jenkins.io/) - Open source automation server, for building and deployment.
 
+### CMS
+
+- [UnfoldCMS](https://github.com/hpakdaman/unfoldcms) - Self-hosted CMS on Laravel 12 + React 19 + shadcn/ui. REST API v1 (42 endpoints), HMAC-signed webhooks, headless mode for Next.js/Astro/SvelteKit/Nuxt. One-time pricing ($99 Pro, free Core). [Website](https://unfoldcms.com)
+
 ### Databases
 
 - [PostgreSQL](https://www.postgresql.org)
