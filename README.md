@@ -274,6 +274,7 @@ manage your subscriptions with no coding. You can also try the
 - [Stripe](https://stripe.com)
 - [Paddle](https://paddle.com)
 - [Chargebee](https://www.chargebee.com)
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Free browser invoice/receipt PDF generator. [Commercial EUR 249 one-time](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=startup-stack-v1) white-label PDFs, 6 templates, CSV batch CLI, no account.
 
 ### App builders
 
