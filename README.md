@@ -279,6 +279,7 @@ manage your subscriptions with no coding. You can also try the
 
 - [Clay](https://base.run)
 - [Anvil](https://anvil.works) - Web apps using Python.
+- [AppWizzy](https://appwizzy.com/) - AI web app builder with cloud development VMs, runtime templates, and Git-backed editing.
 
 ## No code
 
