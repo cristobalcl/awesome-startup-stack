@@ -265,6 +265,7 @@
 ### Marketing
 
 - [SimpleSplit](https://simplesplit.com) - Run AB tests using only HTML.
+- [No Stairs Please](https://nostairsplease.com/) - Live-music venue directory across all 50 US states with a public MCP server (`https://nostairsplease.com/mcp`).
 
 ### Payments
 
