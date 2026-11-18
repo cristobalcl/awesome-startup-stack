@@ -356,6 +356,7 @@ and digital goods, charge for services, accept donations, sell pre-orders and mo
         Emacs.
 - [Slap](https://github.com/slap-editor/slap) - Like Sublime but for the
     console.
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and JSON toolbox.
 
 ## Organization
 
